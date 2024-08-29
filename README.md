@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif" width="550">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif" width="500">
   <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is Eugene ;)</h1>
 </div>
 
