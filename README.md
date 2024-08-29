@@ -28,6 +28,10 @@ I am a Full Stack & M.A.D. Developer.
 - Exploring Algorythmic Traiding.
 - Keeping on studying.
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 *****
 
 ### Languages :
