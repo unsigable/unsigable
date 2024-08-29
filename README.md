@@ -28,9 +28,9 @@ Contributing to frontend and backend for building web apps and telegram bots.
 Keeping on studying.    
 
 Exploring: 
-- Java & QA Automation;
-- Python & Algorithmic Traiding;
-- Data Analysis & Data Visualization.
+- Algorithmic Traiding;
+- Data Analysis;
+- Data Visualization.
 
 
 <div>
