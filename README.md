@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-I am a Full Stack & M.A.D. Developer.
+I am a Full Stack & M.A.D. Developer.    
+Contributing to frontend and backend for building web apps and telegram bots.  
 
-- Contributing to frontend and backend for building web apps and telegram bots.
-- Keeping on studying.
-- Exploring Algorythmic Traiding & QA Automation.
+Keeping on studying.    
+
+Exploring: 
+- Java & QA Automation;
+- Python & Algorithmic Traiding;
+- Data Analysis & Data Visualization.
 
 
 <div>
