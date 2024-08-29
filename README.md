@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-I am a Full Stack & M.A.D. Developer.    
+I am a Full-Stack & M.A.D. Developer.    
 Contributing to frontend and backend for building web apps and telegram bots.  
 
 Keeping on studying.    
