@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*1oTDnw0B32cdT0J1fBmKWg.gif" width="550">
   <h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is Eugene ;)</h1>
 </div>
 
@@ -42,12 +42,6 @@ Exploring:
 
 *****
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-*****
-
 ### Languages :
 
 <div align="left">
@@ -61,6 +55,12 @@ Exploring:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
+
+*****
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 *****
 
