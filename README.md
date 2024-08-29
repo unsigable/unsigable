@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack & M.A.D. Developer.
 
-- I’m contributing to frontend and backend for building web applications and telegram bots.
+- I’m contributing to frontend and backend for building web apps and telegram bots.
 - Exploring Algorythmic Traiding.
 - Keeping on studying.
 
