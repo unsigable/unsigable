@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="240" >
-  
-  <h1>
-    Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-    <br>
-    My name is Eugene ;)
-  </h1>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unsigable)](https://github.com/unsigable/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=7000&pause=1000&color=30C01E&width=640&lines=Hello+world!+My+name+is+Eugene+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me :
+
+*****
 
 Full-Stack & M.A.D. Developer.    
 
@@ -50,7 +44,6 @@ Exploring:
   </a>
 </div>
 
-
 *****
 
 ### Languages :
@@ -71,14 +64,31 @@ Exploring:
 
 *****
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 *****
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Статистика профиля: -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=github_dark)
+
+<!-- Данные по коммитам за сутки: 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unsigable&theme=github_dark&utcOffset=8) -->
+
+<!-- Статистика языков в коммитах + Статистика языков в репозиториях: -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unsigable&theme=github_dark) -->
+
+<!-- Карточка профиля: -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=github_dark)
+
+*****
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=unsigable&theme=matrix&margin-w=15&rank=-SECRET)](https://github.com/unsigable/github-profile-trophy) 
+
+*****
+
+<p align="center">
+ <img width="640" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
