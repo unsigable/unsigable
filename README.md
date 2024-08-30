@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=7000&pause=1000&color=30C01E&width=640&lines=Hello+world!+My+name+is+Eugene+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### About Me :
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-*****
+### About Me :
 
 Contributing to frontend and backend for building:
 - Web apps;
@@ -41,7 +41,7 @@ Contacts:
   </a>
 </div>
 
-*****
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### Languages :
 
@@ -59,11 +59,11 @@ Contacts:
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
 </div>
 
-*****
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-*****
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### My Stats :
 
@@ -81,7 +81,7 @@ Contacts:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-*****
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### My Achievements :
 
