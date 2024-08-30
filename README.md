@@ -54,6 +54,12 @@ Contacts:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+### My Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=periodictable&theme=radical)](https://github.com/unsigable/periodictable)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ### Using Tools :
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,vscode,eclipse,idea,bootstrap,sass,jquery,react,vuejs,chartjs,django,jupyter,spring,maven,cloudflare,pug,gulp,gsap,nodejs,npm,git,github,huggingface,bash,docker,nginx,selenium&titles=true)
