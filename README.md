@@ -25,19 +25,23 @@ Here are some ideas to get you started:
 
 ### About Me :
 
+<img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;<br>
 Contributing to frontend and backend for building:
 - Web apps
 - Traiding bots
-- AI-assistants       
+- AI-assistants
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;<br>
 Exploring: 
 - Algorithmic Traiding
-- Language Models    
+- Language Models
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp;<br>
 Passionate about:
 - Data Analysis
 - Data Visualization    
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;<br>
 Contacts:
 <div>
   <a href="https://t.me/iverse_developer" target="_blank">
