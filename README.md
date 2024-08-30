@@ -64,7 +64,7 @@ Contacts:
 
 ### Using Tools :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,vscode,eclipse,idea,bootstrap,sass,jquery,react,vuejs,chartjs,django,jupyter,spring,maven,cloudflare,pug,gulp,gsap,nodejs,npm,git,github,huggingface,bash,docker,nginx,selenium&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,github,huggingface,vscode,idea,bootstrap,jquery,chartjs,sass,react,vuejs,nodejs,django,jupyter,spring,maven,npm,git,bash,selenium&titles=true)
 
 ### Languages :
 
