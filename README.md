@@ -23,16 +23,10 @@ Here are some ideas to get you started:
 
 *****
 
-Full-Stack & M.A.D. Developer.    
-
 Contributing to frontend and backend for building:
 - Web apps;
 - Traiding bots;
-- AI-assistants.  
-
-Passionate about data analysis and visualization.    
-
-I'm continuously learning.     
+- AI-assistants.       
 
 Exploring: 
 - Algorithmic Traiding;
