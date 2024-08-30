@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="240">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="240" >
   
   <h1>
     Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
     My name is Eugene ;)
   </h1>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=unsigable)](https://github.com/unsigable/github-profile-trophy)
 
 ### About Me :
 
