@@ -34,7 +34,8 @@ Contributing to frontend and backend for building:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;<br>
 Exploring: 
 - Algorithmic Traiding
-- Language Models
+- Machine Learning
+- Large Language Models
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp;<br>
 Passionate about:
