@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=7000&pause=1000&color=30C01E&width=640&lines=Hello+world!+My+name+is+Eugene+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me :
@@ -64,6 +62,8 @@ Contacts:
 *****
 
 ### My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Статистика профиля: -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark)
