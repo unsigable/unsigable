@@ -97,7 +97,7 @@ Contacts:
 <!-- Статистика профиля: -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=transparent)
 
-<!-- Данные по коммитам за сутки: 
+<!-- Данные по коммитам за сутки: -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unsigable&theme=github_dark&utcOffset=8) -->
 
 <!-- Статистика языков в коммитах + Статистика языков в репозиториях: -->
