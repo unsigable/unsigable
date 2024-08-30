@@ -26,13 +26,17 @@ Here are some ideas to get you started:
 ### About Me :
 
 Contributing to frontend and backend for building:
-- Web apps;
-- Traiding bots;
-- AI-assistants.       
+- Web apps
+- Traiding bots
+- AI-assistants       
 
 Exploring: 
-- Algorithmic Traiding;
-- Language Models;    
+- Algorithmic Traiding
+- Language Models    
+
+Passionate about:
+- Data Analysis
+- Dat Visualization    
 
 Contacts:
 <div>
