@@ -36,7 +36,7 @@ Exploring:
 
 Passionate about:
 - Data Analysis
-- Dat Visualization    
+- Data Visualization    
 
 Contacts:
 <div>
