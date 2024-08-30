@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=33CF18&width=640&lines=Hello!+My+name+is+Eugene+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### About Me :
 
@@ -52,7 +52,7 @@ Contacts:
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### Languages :
 
@@ -94,7 +94,7 @@ Contacts:
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### My Stats :
 
@@ -112,7 +112,7 @@ Contacts:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=transparent&hide_border=true)](https://git.io/streak-stats) 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### Achievements :
 
