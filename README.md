@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+ <img width="640" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=7000&pause=1000&color=30C01E&width=640&lines=Hello+world!+My+name+is+Eugene+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me :
@@ -57,16 +61,17 @@ Contacts:
 
 *****
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 *****
 
 ### My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<!-- Карточка профиля: -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=transparent)
 
 <!-- Статистика профиля: -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=transparent)
 
 <!-- Данные по коммитам за сутки: 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unsigable&theme=github_dark&utcOffset=8) -->
@@ -74,12 +79,7 @@ Contacts:
 <!-- Статистика языков в коммитах + Статистика языков в репозиториях: -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unsigable&theme=github_dark) -->
 
-<!-- Карточка профиля: -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=github_dark)
-
-<p align="center">
- <img width="640" src="assets/github-snake.svg" alt="snake"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 *****
 
