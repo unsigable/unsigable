@@ -33,6 +33,7 @@ Contributing to frontend and backend for building:
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;<br>
 Exploring: 
+- UX/UI Design
 - Algorithmic Traiding
 - Machine Learning
 - Large Language Models
@@ -64,7 +65,7 @@ Contacts:
 
 ### Using Tools :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,github,huggingface,vscode,idea,bootstrap,jquery,chartjs,sass,react,vuejs,nodejs,django,jupyter,spring,maven,npm,git,bash,selenium&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,git,npm,jquery,chartjs,sass,react,vuejs,nodejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
 
 ### Languages :
 
@@ -133,5 +134,7 @@ Contacts:
 <br><br>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ![](https://komarev.com/ghpvc/?username=unsigable)
