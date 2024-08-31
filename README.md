@@ -57,7 +57,7 @@ Contacts:
 
 ### My Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=periodictable&theme=transparent)](https://github.com/unsigable/periodictable)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
