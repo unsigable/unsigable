@@ -57,7 +57,7 @@ Contacts:
 
 ### My Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=periodictable&theme=transparent)](https://github.com/unsigableperiodictable)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=periodictable&theme=transparent)](https://github.com/unsigable/periodictable)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=elementsperiodictable&theme=transparent)](https://github.com/unsigable/elementsperiodictable)
 
