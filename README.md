@@ -38,12 +38,12 @@ Exploring:
 - Machine Learning
 - Large Language Models
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp;<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="75" />&nbsp;<br>
 Passionate about:
-- Programming
-- Data Analysis
-- Data Visualization    
-- Psychology   
+- Programming & Development
+- Data Analysis & Data Visualization
+- Mountaining & Hiking
+- Psychology & Philosophy   
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;<br>
 Contacts:
@@ -55,7 +55,12 @@ Contacts:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-### My Projects :
+### Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=tinderbolt&theme=transparent)](https://github.com/unsigable/tinderbolt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=firsttraidingbot&theme=transparent)](https://github.com/unsigable/firsttraidingbot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
