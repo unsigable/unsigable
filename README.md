@@ -58,9 +58,7 @@ Contacts:
 ### Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=tinderbolt&theme=transparent)](https://github.com/unsigable/tinderbolt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=firsttraidingbot&theme=transparent)](https://github.com/unsigable/firsttraidingbot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
