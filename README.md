@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <details>
  <summary>About Me :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;<br>
  Contributing to frontend and backend for building:<br>
@@ -55,8 +56,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
    </a>
  </div>
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </details>
 
 ***
@@ -64,14 +63,13 @@ Here are some ideas to get you started:
 <details>
  <summary>Projects :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=tinderbolt&theme=transparent)](https://github.com/unsigable/tinderbolt)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </details>
 
 ***
@@ -79,6 +77,7 @@ Here are some ideas to get you started:
 <details>
  <summary>Using Tools :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
 </details>
@@ -88,6 +87,7 @@ Here are some ideas to get you started:
 <details>
  <summary>Languages :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
@@ -106,8 +106,6 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  <br>
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </details>
 
 ***
@@ -115,11 +113,10 @@ Here are some ideas to get you started:
 <details>
  <summary>Achievements :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=unsigable&theme=matrix&margin-w=15&rank=-SECRET)](https://github.com/unsigable/github-profile-trophy) 
  <br>
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </details>
 
 ***
@@ -127,6 +124,7 @@ Here are some ideas to get you started:
 <details>
  <summary>My Stats :</summary>
  <br>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
  <!-- Карточка профиля: -->
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=transparent)
