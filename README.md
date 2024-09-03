@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <details>
- <summary>About Me :</summary>
+ <summary>ABOUT ME :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ***
 
 <details>
- <summary>Projects :</summary>
+ <summary>PROJECTS :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ***
 
 <details>
- <summary>Using Tools :</summary>
+ <summary>USING TOOLS :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 *** 
 
 <details>
- <summary>Languages :</summary>
+ <summary>LANGUAGES :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 ***
 
 <details>
- <summary>Achievements :</summary>
+ <summary>ACHIEVEMENTS :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 ***
 
 <details>
- <summary>My Stats :</summary>
+ <summary>MY STATS :</summary>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  
