@@ -140,6 +140,4 @@ Here are some ideas to get you started:
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ![](https://komarev.com/ghpvc/?username=unsigable&color=blueviolet)
