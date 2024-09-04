@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-<details>
- <summary>ABOUT ME :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+## ABOUT ME :
 
  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp;<br>
  Contributing to frontend and backend for building:<br>
@@ -56,92 +53,76 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
    </a>
  </div>
-</details>
 
-***
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<details>
- <summary>PROJECTS :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=tinderbolt&theme=transparent)](https://github.com/unsigable/tinderbolt)
+## PROJECTS :
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
-</details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=tinderbolt&theme=transparent)](https://github.com/unsigable/tinderbolt)
 
-***
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramTrades&theme=transparent)](https://github.com/unsigable/telegramTrades)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
 
-<details>
- <summary>USING TOOLS :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
+## USING TOOLS :
  
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
-</details>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
 
-*** 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<details>
- <summary>LANGUAGES :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+## LANGUAGES :
  
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="Markdown" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
- </div>
- <br><br>
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="Markdown" />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
+</div>
+<br><br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- <br>
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-***
 
-<details>
- <summary>ACHIEVEMENTS :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+## ACHIEVEMENTS :
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=unsigable&theme=matrix&margin-w=15&rank=-SECRET)](https://github.com/unsigable/github-profile-trophy) 
- <br>
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=unsigable&theme=matrix&margin-w=15&rank=-SECRET)](https://github.com/unsigable/github-profile-trophy) 
+<br>
 
-***
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<details>
- <summary>MY STATS :</summary>
- <br>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
- 
- <!-- Карточка профиля: -->
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=transparent)
 
- <!-- Статистика профиля: -->
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=transparent)
- 
- <!-- Данные по коммитам за сутки: -->
- <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unsigable&theme=github_dark&utcOffset=8) -->
- 
- <!-- Статистика языков в коммитах + Статистика языков в репозиториях: -->
- <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unsigable&theme=github_dark) -->
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-</details>
+## MY STATS :
 
-***
+<!-- Карточка профиля: -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unsigable&theme=transparent)
+
+<!-- Статистика профиля: -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unsigable&theme=transparent)
+
+<!-- Данные по коммитам за сутки: -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unsigable&theme=github_dark&utcOffset=8) -->
+
+<!-- Статистика языков в коммитах + Статистика языков в репозиториях: -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unsigable&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unsigable&theme=github_dark) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigable&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <div>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="html">
