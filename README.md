@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 
  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="75" />&nbsp;<br>
  Passionate about:
- - Programming & Development
- - Data Analysis & Data Visualization
- - Mountaining & Hiking
- - Psychology & Philosophy
+ - Programming
+ - Data Analysis
+ - Data Visualization
 
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;<br>
  Contacts:
