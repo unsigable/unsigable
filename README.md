@@ -70,8 +70,6 @@ Here are some ideas to get you started:
  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 
 ## LANGUAGES :
  
