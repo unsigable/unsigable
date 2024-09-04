@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-
+<!--
 ## PROJECTS :
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=telegramNasa-Netology_java&theme=transparent)](https://github.com/unsigable/telegramNasa-Netology_java)
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unsigable&repo=htmlPeriodicTable&theme=transparent)](https://github.com/unsigable/htmlPeriodicTable)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
+-->
 
 ## USING TOOLS :
  
