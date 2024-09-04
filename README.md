@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsigable&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
