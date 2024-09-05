@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ## USING TOOLS :
  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,spring,maven&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,obsidian,figma,github,vscode,idea,bootstrap,jquery,git,npm,nodejs,chartjs,sass,react,vuejs,jupyter,django,chatgpt,googleanalytics,huggingface,maven,spring&titles=true)
 
 
 ## LANGUAGES :
