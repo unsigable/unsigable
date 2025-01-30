@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  - Traiding bots
  - AI-assistants    
 
-*(Granted access to the limited public beta for [GitHub Models](https://github.com/marketplace/models))*
+*([GitHub Models](https://github.com/marketplace/models))*
 
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;<br>
  Exploring: 
